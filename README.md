@@ -1,14 +1,15 @@
-# 👋🏼 Hi, I’m Kristin
+# 👋🏼 Hi, I’m Kristin!
 
-I recently made a career switch to software engineering, and completed the intensive Software Engineering Immersive program at General Assembly in June 2023.
+🌊 I'm a passionate front-end developer who's on a mission to craft captivating digital experiences. I successfully completed the intensive Software Engineering Immersive program through General Assembly in June 2023, and I'm ready to make waves in the tech industry.
 
-Before diving into tech, I spent several years working in various roles in marketing, merchandising, and sales. I realized that I wanted to pursue a career that allowed me to use my analytical and problem-solving skills in a more technical context.
+Before diving into tech, I wore many hats in marketing, merchandising, and sales, where I refined my ability to connect with people and understand their needs. However, I yearned for a career that allowed me to channel my creativity and problem-solving skills into creating visually stunning and user-friendly web interfaces.
 
-I'm excited about the future of tech and the many opportunities it presents, and I'm eager to contribute my skills and knowledge to innovative projects and teams. 
+🌟 I'm truly excited about the front-end realm of tech and the endless possibilities it offers for enhancing user experiences and making the digital world more engaging.
 
-### 📫 If you're interested in connecting or learning more about my experience, please feel free to reach out!
 
-## I've worked with
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,django,python,git,postgres,bootstrap,heroku,netlify)
-
+## 💼 My Tech Toolbox
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,django,python,postgres,markdown,heroku,netlify)
+---
+### 📫 Let's Connect
+If you'd like to get in touch or learn more about my journey and experiences, please don't hesitate to reach out!
 
